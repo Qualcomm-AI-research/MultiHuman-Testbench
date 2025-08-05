@@ -89,8 +89,12 @@ python benchmarking/compute_scores.py --mllm_metrics --stored_result_path=OUTPUT
 If you use Multi-Human-Testbench in your research, please cite our paper (forthcoming):
 
 ```bibtex
-@article{multihumantestbench,
-  title={{Multi-Human-Testbench}: A Benchmark for Subject-Driven Image Generation with Multiple Identities}}
+@article{borse2025multihuman,
+  title={MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans},
+  author={Borse, Shubhankar and Choi, Seokeon and Park, Sunghyun and Kim, Jeongho and Kadambi, Shreya and Garrepalli, Risheek and Yun, Sungrack and Hayat, Munawar and Porikli, Fatih},
+  journal={arXiv preprint arXiv:2506.20879},
+  year={2025}
+}
 ```
 
 ---
