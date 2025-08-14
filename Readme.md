@@ -82,6 +82,12 @@ python benchmarking/compute_scores.py --mllm_metrics --stored_result_path=OUTPUT
 *(Note: For MLLM QA metrics, we use Gemini 2.0 Flash. You can choose to run without ``` --mllm_metrics ``` if you don't want to prompt it. To correctly setup Gemini, make sure you paste your API key in ``` utils/mllm_metrics.py ```).*
 
 ---
+## License
+
+This repository contains both code and data, each released under different licenses: the code is released under the BSD 3-Clause Clear license and the data is released under the MultiHuman-Testbench Dataset Research License. 
+Please refer to the respective license files for details. 
+
+---
 
 ## Citation 📚
 
