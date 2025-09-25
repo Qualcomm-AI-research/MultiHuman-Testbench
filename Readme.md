@@ -1,7 +1,9 @@
 # MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans 👥🖼️
 
 This is the official repository for the **Multi-Human-Testbench** project.
+
 **Accepted to NeurIPS 2025 Datasets and Benchmarks Track!**
+
 Link: https://arxiv.org/pdf/2506.20879 
 
 ![Main illustration for Multi-Human-Testbench](assets/main.jpg)
